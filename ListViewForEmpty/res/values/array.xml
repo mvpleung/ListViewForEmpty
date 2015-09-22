@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="index_list">
+        <item>ListView For Empty</item>
+        <item>ExpandListView For Empty</item>
+    </string-array>
+
+</resources>
